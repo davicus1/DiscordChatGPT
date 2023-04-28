@@ -8,3 +8,4 @@ This ChatGPT integration does not remember the context between messages
 
 # pip install discord.py
 # pip install openapi
+# pip install python-dotenv
