@@ -1,0 +1,10 @@
+A discord bot that calls ChatGPT, and prefixs a limiter to the chat in an attempt to limit the scope. 
+This ChatGPT integration does not remember the context between messages
+
+# Discord Bot Permissions Integer: 377957238848
+
+# For Windows Power Shell integrated with IntelliJ
+# Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy Bypass
+
+# pip install discord.py
+# pip install openapi
